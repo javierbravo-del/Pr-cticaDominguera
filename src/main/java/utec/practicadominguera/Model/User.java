@@ -26,5 +26,6 @@ public class User {
     private String sex;
     private String password;
     private Integer age;
+    private String role;
 
 }
